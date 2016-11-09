@@ -1,0 +1,527 @@
+2016-11-08 10:22:56  [ NioProcessor-6:83889382 ] - [ DEBUG ]  新客户端连接
+2016-11-08 10:22:56  [ pool-3-thread-2:83889387 ] - [ DEBUG ]  client 登陆！address:/127.0.0.1:51925
+2016-11-08 10:22:56  [ pool-3-thread-1:83889557 ] - [ DEBUG ]  HData [type=3, data={"id":-1,"lastLoginTime":0,"password":"96e79218965eb72c92a549dd5a330112","playerInfo":{"attackSpeed":2,"coinPer":2,"coins":100,"comprehensive":0,"crit":0,"critDefense":0,"currentExp":0,"currentHp":0,"defense":1,"id":0,"lv":0,"maxAttack":3,"maxExp":100,"maxHp":0,"minAttack":1,"moveSpeed":10,"perHP":0,"personnels":[[null,null,null],[null,null,null],[null,null,null]]},"token":"","username":"hhhh"}]
+2016-11-08 10:23:06  [ pool-3-thread-1:83899761 ] - [ DEBUG ]  HData [type=0, data=0]
+2016-11-08 10:23:16  [ pool-3-thread-2:83909844 ] - [ DEBUG ]  HData [type=0, data=1]
+2016-11-08 10:23:26  [ pool-3-thread-1:83919931 ] - [ DEBUG ]  HData [type=0, data=2]
+2016-11-08 10:23:36  [ pool-3-thread-1:83930026 ] - [ DEBUG ]  HData [type=0, data=3]
+2016-11-08 10:23:46  [ pool-3-thread-1:83940116 ] - [ DEBUG ]  HData [type=0, data=4]
+2016-11-08 10:23:56  [ pool-3-thread-1:83950198 ] - [ DEBUG ]  HData [type=0, data=5]
+2016-11-08 10:24:07  [ pool-3-thread-1:83960285 ] - [ DEBUG ]  HData [type=0, data=6]
+2016-11-08 10:24:17  [ pool-3-thread-2:83970363 ] - [ DEBUG ]  HData [type=0, data=7]
+2016-11-08 10:24:27  [ pool-3-thread-1:83980453 ] - [ DEBUG ]  HData [type=0, data=8]
+2016-11-08 10:24:38  [ NioProcessor-7:83992068 ] - [ DEBUG ]  新客户端连接
+2016-11-08 10:24:38  [ pool-3-thread-2:83992069 ] - [ DEBUG ]  client 登陆！address:/127.0.0.1:52024
+2016-11-08 10:24:48  [ pool-3-thread-1:84002079 ] - [ DEBUG ]  HData [type=0, data=0]
+2016-11-08 10:25:35  [ NioProcessor-8:84048965 ] - [ DEBUG ]  新客户端连接
+2016-11-08 10:25:35  [ pool-3-thread-2:84048967 ] - [ DEBUG ]  client 登陆！address:/127.0.0.1:52090
+2016-11-08 10:25:35  [ pool-3-thread-1:84049161 ] - [ DEBUG ]  HData [type=3, data={"id":-1,"lastLoginTime":0,"password":"96e79218965eb72c92a549dd5a330112","playerInfo":{"attackSpeed":2,"coinPer":2,"coins":100,"comprehensive":0,"crit":0,"critDefense":0,"currentExp":0,"currentHp":0,"defense":1,"id":0,"lv":0,"maxAttack":3,"maxExp":100,"maxHp":0,"minAttack":1,"moveSpeed":10,"perHP":0,"personnels":[[null,null,null],[null,null,null],[null,null,null]]},"token":"","username":"hhhh"}]
+2016-11-08 10:25:51  [ main:0 ] - [ DEBUG ]  Mina Server run done! on port:8899
+2016-11-08 10:26:01  [ NioProcessor-3:10011 ] - [ DEBUG ]  新客户端连接
+2016-11-08 10:26:01  [ pool-3-thread-1:10021 ] - [ DEBUG ]  client 登陆！address:/127.0.0.1:52139
+2016-11-08 10:26:11  [ pool-3-thread-1:20047 ] - [ DEBUG ]  HData [type=0, data=0]
+2016-11-08 10:26:21  [ pool-3-thread-2:30127 ] - [ DEBUG ]  HData [type=0, data=1]
+2016-11-08 10:26:51  [ NioProcessor-4:59298 ] - [ DEBUG ]  新客户端连接
+2016-11-08 10:26:51  [ pool-3-thread-1:59300 ] - [ DEBUG ]  client 登陆！address:/127.0.0.1:52187
+2016-11-08 10:27:01  [ pool-3-thread-1:69350 ] - [ DEBUG ]  HData [type=0, data=0]
+2016-11-08 10:27:38  [ main:0 ] - [ DEBUG ]  Mina Server run done! on port:8899
+2016-11-08 10:27:50  [ NioProcessor-3:12230 ] - [ DEBUG ]  新客户端连接
+2016-11-08 10:27:50  [ pool-3-thread-1:12236 ] - [ DEBUG ]  client 登陆！address:/127.0.0.1:52277
+2016-11-08 10:27:51  [ pool-3-thread-1:12457 ] - [ DEBUG ]  HData [type=3, data={"id":-1,"lastLoginTime":0,"password":"96e79218965eb72c92a549dd5a330112","playerInfo":{"attackSpeed":2,"coinPer":2,"coins":100,"comprehensive":0,"crit":0,"critDefense":0,"currentExp":0,"currentHp":0,"defense":1,"id":0,"lv":0,"maxAttack":3,"maxExp":100,"maxHp":0,"minAttack":1,"moveSpeed":10,"perHP":0,"personnels":[[null,null,null],[null,null,null],[null,null,null]]},"token":"","username":"hhhh"}]
+2016-11-08 10:28:01  [ pool-3-thread-1:22864 ] - [ DEBUG ]  HData [type=0, data=0]
+2016-11-08 10:28:01  [ pool-3-thread-1:22866 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:28:11  [ pool-3-thread-2:32969 ] - [ DEBUG ]  HData [type=0, data=1]
+2016-11-08 10:28:11  [ pool-3-thread-2:32971 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:28:21  [ pool-3-thread-1:43132 ] - [ DEBUG ]  HData [type=0, data=2]
+2016-11-08 10:28:21  [ pool-3-thread-1:43133 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:28:32  [ pool-3-thread-2:53421 ] - [ DEBUG ]  HData [type=0, data=3]
+2016-11-08 10:28:32  [ pool-3-thread-2:53423 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:28:42  [ pool-3-thread-1:63577 ] - [ DEBUG ]  HData [type=0, data=4]
+2016-11-08 10:28:42  [ pool-3-thread-1:63579 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:28:52  [ pool-3-thread-2:73687 ] - [ DEBUG ]  HData [type=0, data=5]
+2016-11-08 10:28:52  [ pool-3-thread-2:73688 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:29:02  [ pool-3-thread-1:83801 ] - [ DEBUG ]  HData [type=0, data=6]
+2016-11-08 10:29:02  [ pool-3-thread-1:83802 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:29:12  [ pool-3-thread-2:93948 ] - [ DEBUG ]  HData [type=0, data=7]
+2016-11-08 10:29:12  [ pool-3-thread-2:93949 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:29:22  [ pool-3-thread-1:104107 ] - [ DEBUG ]  HData [type=0, data=8]
+2016-11-08 10:29:22  [ pool-3-thread-1:104109 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:29:32  [ pool-3-thread-2:114183 ] - [ DEBUG ]  HData [type=0, data=9]
+2016-11-08 10:29:32  [ pool-3-thread-2:114184 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:29:42  [ pool-3-thread-1:124281 ] - [ DEBUG ]  HData [type=0, data=10]
+2016-11-08 10:29:42  [ pool-3-thread-1:124282 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:29:53  [ pool-3-thread-2:134427 ] - [ DEBUG ]  HData [type=0, data=11]
+2016-11-08 10:29:53  [ pool-3-thread-2:134427 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:30:03  [ pool-3-thread-1:144673 ] - [ DEBUG ]  HData [type=0, data=12]
+2016-11-08 10:30:03  [ pool-3-thread-1:144674 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:30:13  [ pool-3-thread-2:154826 ] - [ DEBUG ]  HData [type=0, data=13]
+2016-11-08 10:30:13  [ pool-3-thread-2:154828 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:30:23  [ pool-3-thread-1:164932 ] - [ DEBUG ]  HData [type=0, data=14]
+2016-11-08 10:30:23  [ pool-3-thread-1:164933 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:30:33  [ pool-3-thread-2:175051 ] - [ DEBUG ]  HData [type=0, data=15]
+2016-11-08 10:30:33  [ pool-3-thread-2:175053 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:30:43  [ pool-3-thread-1:185169 ] - [ DEBUG ]  HData [type=0, data=16]
+2016-11-08 10:30:43  [ pool-3-thread-1:185171 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:30:53  [ pool-3-thread-2:195252 ] - [ DEBUG ]  HData [type=0, data=17]
+2016-11-08 10:30:53  [ pool-3-thread-2:195253 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:31:03  [ pool-3-thread-1:205331 ] - [ DEBUG ]  HData [type=0, data=18]
+2016-11-08 10:31:03  [ pool-3-thread-1:205332 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:31:14  [ pool-3-thread-2:215562 ] - [ DEBUG ]  HData [type=0, data=19]
+2016-11-08 10:31:14  [ pool-3-thread-2:215562 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:31:24  [ pool-3-thread-1:225735 ] - [ DEBUG ]  HData [type=0, data=20]
+2016-11-08 10:31:24  [ pool-3-thread-1:225737 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:31:34  [ pool-3-thread-2:236184 ] - [ DEBUG ]  HData [type=0, data=21]
+2016-11-08 10:31:34  [ pool-3-thread-2:236185 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:31:45  [ pool-3-thread-1:247255 ] - [ DEBUG ]  HData [type=0, data=22]
+2016-11-08 10:31:45  [ pool-3-thread-1:247256 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:31:56  [ pool-3-thread-2:257368 ] - [ DEBUG ]  HData [type=0, data=23]
+2016-11-08 10:31:56  [ pool-3-thread-2:257369 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:32:06  [ pool-3-thread-1:267529 ] - [ DEBUG ]  HData [type=0, data=24]
+2016-11-08 10:32:06  [ pool-3-thread-1:267530 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:32:16  [ pool-3-thread-2:277605 ] - [ DEBUG ]  HData [type=0, data=25]
+2016-11-08 10:32:16  [ pool-3-thread-2:277607 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:32:26  [ pool-3-thread-1:287679 ] - [ DEBUG ]  HData [type=0, data=26]
+2016-11-08 10:32:26  [ pool-3-thread-1:287680 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:32:36  [ pool-3-thread-2:297857 ] - [ DEBUG ]  HData [type=0, data=27]
+2016-11-08 10:32:36  [ pool-3-thread-2:297857 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:32:46  [ pool-3-thread-1:308173 ] - [ DEBUG ]  HData [type=0, data=28]
+2016-11-08 10:32:46  [ pool-3-thread-1:308174 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:32:56  [ pool-3-thread-2:318333 ] - [ DEBUG ]  HData [type=0, data=29]
+2016-11-08 10:32:56  [ pool-3-thread-2:318334 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:33:07  [ pool-3-thread-1:328423 ] - [ DEBUG ]  HData [type=0, data=30]
+2016-11-08 10:33:07  [ pool-3-thread-1:328424 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:33:17  [ pool-3-thread-2:338739 ] - [ DEBUG ]  HData [type=0, data=31]
+2016-11-08 10:33:17  [ pool-3-thread-2:338740 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:33:27  [ pool-3-thread-1:348839 ] - [ DEBUG ]  HData [type=0, data=32]
+2016-11-08 10:33:27  [ pool-3-thread-1:348839 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:33:37  [ pool-3-thread-2:358930 ] - [ DEBUG ]  HData [type=0, data=33]
+2016-11-08 10:33:37  [ pool-3-thread-2:358930 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:33:47  [ pool-3-thread-1:369017 ] - [ DEBUG ]  HData [type=0, data=34]
+2016-11-08 10:33:47  [ pool-3-thread-1:369019 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:33:57  [ pool-3-thread-2:379136 ] - [ DEBUG ]  HData [type=0, data=35]
+2016-11-08 10:33:57  [ pool-3-thread-2:379137 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:34:07  [ pool-3-thread-1:389253 ] - [ DEBUG ]  HData [type=0, data=36]
+2016-11-08 10:34:07  [ pool-3-thread-1:389254 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:34:17  [ pool-3-thread-2:399333 ] - [ DEBUG ]  HData [type=0, data=37]
+2016-11-08 10:34:17  [ pool-3-thread-2:399334 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:34:28  [ pool-3-thread-1:409599 ] - [ DEBUG ]  HData [type=0, data=38]
+2016-11-08 10:34:28  [ pool-3-thread-1:409601 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:34:38  [ pool-3-thread-2:419751 ] - [ DEBUG ]  HData [type=0, data=39]
+2016-11-08 10:34:38  [ pool-3-thread-2:419752 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:34:48  [ pool-3-thread-1:429901 ] - [ DEBUG ]  HData [type=0, data=40]
+2016-11-08 10:34:48  [ pool-3-thread-1:429901 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:34:58  [ pool-3-thread-2:440251 ] - [ DEBUG ]  HData [type=0, data=41]
+2016-11-08 10:34:58  [ pool-3-thread-2:440252 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:35:09  [ pool-3-thread-1:450394 ] - [ DEBUG ]  HData [type=0, data=42]
+2016-11-08 10:35:09  [ pool-3-thread-1:450395 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:35:19  [ pool-3-thread-2:460551 ] - [ DEBUG ]  HData [type=0, data=43]
+2016-11-08 10:35:19  [ pool-3-thread-2:460557 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:35:29  [ pool-3-thread-1:470705 ] - [ DEBUG ]  HData [type=0, data=44]
+2016-11-08 10:35:29  [ pool-3-thread-1:470706 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:35:39  [ pool-3-thread-2:480814 ] - [ DEBUG ]  HData [type=0, data=45]
+2016-11-08 10:35:39  [ pool-3-thread-2:480816 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:35:49  [ pool-3-thread-1:490928 ] - [ DEBUG ]  HData [type=0, data=46]
+2016-11-08 10:35:49  [ pool-3-thread-1:490929 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:35:59  [ pool-3-thread-2:501015 ] - [ DEBUG ]  HData [type=0, data=47]
+2016-11-08 10:35:59  [ pool-3-thread-2:501016 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:36:09  [ pool-3-thread-1:511107 ] - [ DEBUG ]  HData [type=0, data=48]
+2016-11-08 10:36:09  [ pool-3-thread-1:511107 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:36:19  [ pool-3-thread-2:521316 ] - [ DEBUG ]  HData [type=0, data=49]
+2016-11-08 10:36:19  [ pool-3-thread-2:521317 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:36:30  [ pool-3-thread-1:531585 ] - [ DEBUG ]  HData [type=0, data=50]
+2016-11-08 10:36:30  [ pool-3-thread-1:531587 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:36:40  [ pool-3-thread-2:541828 ] - [ DEBUG ]  HData [type=0, data=51]
+2016-11-08 10:36:40  [ pool-3-thread-2:541829 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:36:50  [ pool-3-thread-1:551937 ] - [ DEBUG ]  HData [type=0, data=52]
+2016-11-08 10:36:50  [ pool-3-thread-1:551939 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:37:00  [ pool-3-thread-2:562215 ] - [ DEBUG ]  HData [type=0, data=53]
+2016-11-08 10:37:00  [ pool-3-thread-2:562216 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:37:11  [ pool-3-thread-1:572429 ] - [ DEBUG ]  HData [type=0, data=54]
+2016-11-08 10:37:11  [ pool-3-thread-1:572429 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:37:21  [ pool-3-thread-2:582518 ] - [ DEBUG ]  HData [type=0, data=55]
+2016-11-08 10:37:21  [ pool-3-thread-2:582519 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:37:32  [ pool-3-thread-1:593433 ] - [ DEBUG ]  HData [type=0, data=56]
+2016-11-08 10:37:32  [ pool-3-thread-1:593434 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:37:42  [ pool-3-thread-2:603732 ] - [ DEBUG ]  HData [type=0, data=57]
+2016-11-08 10:37:42  [ pool-3-thread-2:603733 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:37:52  [ pool-3-thread-1:613862 ] - [ DEBUG ]  HData [type=0, data=58]
+2016-11-08 10:37:52  [ pool-3-thread-1:613864 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:38:02  [ pool-3-thread-2:623934 ] - [ DEBUG ]  HData [type=0, data=59]
+2016-11-08 10:38:02  [ pool-3-thread-2:623935 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:38:12  [ pool-3-thread-1:634061 ] - [ DEBUG ]  HData [type=0, data=60]
+2016-11-08 10:38:12  [ pool-3-thread-1:634062 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:38:22  [ pool-3-thread-2:644230 ] - [ DEBUG ]  HData [type=0, data=61]
+2016-11-08 10:38:22  [ pool-3-thread-2:644231 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:38:33  [ pool-3-thread-1:654446 ] - [ DEBUG ]  HData [type=0, data=62]
+2016-11-08 10:38:33  [ pool-3-thread-1:654447 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:38:43  [ pool-3-thread-2:664686 ] - [ DEBUG ]  HData [type=0, data=63]
+2016-11-08 10:38:43  [ pool-3-thread-2:664687 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:38:53  [ pool-3-thread-1:674841 ] - [ DEBUG ]  HData [type=0, data=64]
+2016-11-08 10:38:53  [ pool-3-thread-1:674842 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:39:03  [ pool-3-thread-2:684959 ] - [ DEBUG ]  HData [type=0, data=65]
+2016-11-08 10:39:03  [ pool-3-thread-2:684960 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:39:13  [ pool-3-thread-1:695090 ] - [ DEBUG ]  HData [type=0, data=66]
+2016-11-08 10:39:13  [ pool-3-thread-1:695091 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:39:23  [ pool-3-thread-2:705199 ] - [ DEBUG ]  HData [type=0, data=67]
+2016-11-08 10:39:23  [ pool-3-thread-2:705199 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:39:33  [ pool-3-thread-1:715296 ] - [ DEBUG ]  HData [type=0, data=68]
+2016-11-08 10:39:33  [ pool-3-thread-1:715297 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:39:44  [ pool-3-thread-2:725395 ] - [ DEBUG ]  HData [type=0, data=69]
+2016-11-08 10:39:44  [ pool-3-thread-2:725396 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:39:54  [ pool-3-thread-1:735493 ] - [ DEBUG ]  HData [type=0, data=70]
+2016-11-08 10:39:54  [ pool-3-thread-1:735494 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:40:04  [ pool-3-thread-2:745583 ] - [ DEBUG ]  HData [type=0, data=71]
+2016-11-08 10:40:04  [ pool-3-thread-2:745584 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:40:14  [ pool-3-thread-1:755677 ] - [ DEBUG ]  HData [type=0, data=72]
+2016-11-08 10:40:14  [ pool-3-thread-1:755678 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:40:24  [ pool-3-thread-2:765757 ] - [ DEBUG ]  HData [type=0, data=73]
+2016-11-08 10:40:24  [ pool-3-thread-2:765758 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:40:34  [ pool-3-thread-1:775891 ] - [ DEBUG ]  HData [type=0, data=74]
+2016-11-08 10:40:34  [ pool-3-thread-1:775892 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:40:44  [ pool-3-thread-2:785993 ] - [ DEBUG ]  HData [type=0, data=75]
+2016-11-08 10:40:44  [ pool-3-thread-2:785993 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:40:54  [ pool-3-thread-1:796071 ] - [ DEBUG ]  HData [type=0, data=76]
+2016-11-08 10:40:54  [ pool-3-thread-1:796071 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:41:04  [ pool-3-thread-2:806213 ] - [ DEBUG ]  HData [type=0, data=77]
+2016-11-08 10:41:04  [ pool-3-thread-2:806214 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:41:14  [ pool-3-thread-1:816285 ] - [ DEBUG ]  HData [type=0, data=78]
+2016-11-08 10:41:14  [ pool-3-thread-1:816286 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:41:25  [ pool-3-thread-2:826480 ] - [ DEBUG ]  HData [type=0, data=79]
+2016-11-08 10:41:25  [ pool-3-thread-2:826482 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:41:35  [ pool-3-thread-1:836630 ] - [ DEBUG ]  HData [type=0, data=80]
+2016-11-08 10:41:35  [ pool-3-thread-1:836632 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:41:45  [ pool-3-thread-2:846722 ] - [ DEBUG ]  HData [type=0, data=81]
+2016-11-08 10:41:45  [ pool-3-thread-2:846723 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:41:55  [ pool-3-thread-1:856797 ] - [ DEBUG ]  HData [type=0, data=82]
+2016-11-08 10:41:55  [ pool-3-thread-1:856798 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:42:05  [ pool-3-thread-2:867053 ] - [ DEBUG ]  HData [type=0, data=83]
+2016-11-08 10:42:05  [ pool-3-thread-2:867054 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:42:15  [ pool-3-thread-1:877130 ] - [ DEBUG ]  HData [type=0, data=84]
+2016-11-08 10:42:15  [ pool-3-thread-1:877131 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:42:25  [ pool-3-thread-2:887220 ] - [ DEBUG ]  HData [type=0, data=85]
+2016-11-08 10:42:25  [ pool-3-thread-2:887221 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:42:35  [ pool-3-thread-1:897310 ] - [ DEBUG ]  HData [type=0, data=86]
+2016-11-08 10:42:35  [ pool-3-thread-1:897312 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:42:46  [ pool-3-thread-2:907402 ] - [ DEBUG ]  HData [type=0, data=87]
+2016-11-08 10:42:46  [ pool-3-thread-2:907403 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:42:56  [ pool-3-thread-1:917498 ] - [ DEBUG ]  HData [type=0, data=88]
+2016-11-08 10:42:56  [ pool-3-thread-1:917500 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:43:06  [ pool-3-thread-2:927596 ] - [ DEBUG ]  HData [type=0, data=89]
+2016-11-08 10:43:06  [ pool-3-thread-2:927597 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:43:16  [ pool-3-thread-1:937719 ] - [ DEBUG ]  HData [type=0, data=90]
+2016-11-08 10:43:16  [ pool-3-thread-1:937720 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:43:26  [ pool-3-thread-2:947897 ] - [ DEBUG ]  HData [type=0, data=91]
+2016-11-08 10:43:26  [ pool-3-thread-2:947898 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:43:37  [ pool-3-thread-1:958400 ] - [ DEBUG ]  HData [type=0, data=92]
+2016-11-08 10:43:37  [ pool-3-thread-1:958401 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:43:47  [ pool-3-thread-2:968619 ] - [ DEBUG ]  HData [type=0, data=93]
+2016-11-08 10:43:47  [ pool-3-thread-2:968620 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:43:59  [ pool-3-thread-1:980680 ] - [ DEBUG ]  HData [type=0, data=94]
+2016-11-08 10:43:59  [ pool-3-thread-1:980681 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:44:09  [ pool-3-thread-2:991145 ] - [ DEBUG ]  HData [type=0, data=95]
+2016-11-08 10:44:09  [ pool-3-thread-2:991146 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:44:21  [ pool-3-thread-1:1002571 ] - [ DEBUG ]  HData [type=0, data=96]
+2016-11-08 10:44:21  [ pool-3-thread-1:1002572 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:44:33  [ pool-3-thread-2:1014556 ] - [ DEBUG ]  HData [type=0, data=97]
+2016-11-08 10:44:33  [ pool-3-thread-2:1014557 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:45:07  [ pool-3-thread-1:1048870 ] - [ DEBUG ]  HData [type=0, data=98]
+2016-11-08 10:45:07  [ pool-3-thread-1:1048872 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:45:18  [ pool-3-thread-2:1060066 ] - [ DEBUG ]  HData [type=0, data=99]
+2016-11-08 10:45:18  [ pool-3-thread-2:1060067 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:45:18  [ pool-3-thread-2:1060067 ] - [ DEBUG ]  HData [type=0, data=100]
+2016-11-08 10:45:18  [ pool-3-thread-2:1060068 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:45:18  [ pool-3-thread-2:1060068 ] - [ DEBUG ]  HData [type=0, data=101]
+2016-11-08 10:45:18  [ pool-3-thread-2:1060068 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:45:30  [ pool-3-thread-1:1071561 ] - [ DEBUG ]  HData [type=0, data=102]
+2016-11-08 10:45:30  [ pool-3-thread-1:1071562 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:45:49  [ pool-3-thread-1:1091115 ] - [ DEBUG ]  HData [type=0, data=103]
+2016-11-08 10:45:49  [ pool-3-thread-1:1091116 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:45:51  [ pool-3-thread-2:1092861 ] - [ DEBUG ]  HData [type=0, data=104]
+2016-11-08 10:45:51  [ pool-3-thread-2:1092862 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:46:11  [ pool-3-thread-1:1112799 ] - [ DEBUG ]  HData [type=0, data=105]
+2016-11-08 10:46:11  [ pool-3-thread-1:1112800 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:46:21  [ pool-3-thread-1:1123098 ] - [ DEBUG ]  HData [type=0, data=106]
+2016-11-08 10:46:21  [ pool-3-thread-1:1123100 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:46:32  [ pool-3-thread-2:1133744 ] - [ DEBUG ]  HData [type=0, data=107]
+2016-11-08 10:46:32  [ pool-3-thread-2:1133745 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:46:42  [ pool-3-thread-1:1143944 ] - [ DEBUG ]  HData [type=0, data=108]
+2016-11-08 10:46:42  [ pool-3-thread-1:1143946 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:46:52  [ pool-3-thread-2:1154133 ] - [ DEBUG ]  HData [type=0, data=109]
+2016-11-08 10:46:52  [ pool-3-thread-2:1154134 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:47:03  [ pool-3-thread-1:1164568 ] - [ DEBUG ]  HData [type=0, data=110]
+2016-11-08 10:47:03  [ pool-3-thread-1:1164569 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:47:13  [ pool-3-thread-2:1174781 ] - [ DEBUG ]  HData [type=0, data=111]
+2016-11-08 10:47:13  [ pool-3-thread-2:1174782 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:47:23  [ pool-3-thread-1:1185016 ] - [ DEBUG ]  HData [type=0, data=112]
+2016-11-08 10:47:23  [ pool-3-thread-1:1185017 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:47:33  [ pool-3-thread-2:1195228 ] - [ DEBUG ]  HData [type=0, data=113]
+2016-11-08 10:47:33  [ pool-3-thread-2:1195229 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:47:45  [ pool-3-thread-1:1206687 ] - [ DEBUG ]  HData [type=0, data=114]
+2016-11-08 10:47:45  [ pool-3-thread-1:1206688 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:47:55  [ pool-3-thread-2:1217308 ] - [ DEBUG ]  HData [type=0, data=115]
+2016-11-08 10:47:55  [ pool-3-thread-2:1217310 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:48:06  [ pool-3-thread-1:1227588 ] - [ DEBUG ]  HData [type=0, data=116]
+2016-11-08 10:48:06  [ pool-3-thread-1:1227589 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:48:16  [ pool-3-thread-2:1237685 ] - [ DEBUG ]  HData [type=0, data=117]
+2016-11-08 10:48:16  [ pool-3-thread-2:1237686 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:48:26  [ pool-3-thread-1:1247816 ] - [ DEBUG ]  HData [type=0, data=118]
+2016-11-08 10:48:26  [ pool-3-thread-1:1247817 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:48:36  [ pool-3-thread-2:1257915 ] - [ DEBUG ]  HData [type=0, data=119]
+2016-11-08 10:48:36  [ pool-3-thread-2:1257916 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:48:46  [ pool-3-thread-1:1268057 ] - [ DEBUG ]  HData [type=0, data=120]
+2016-11-08 10:48:46  [ pool-3-thread-1:1268058 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:48:57  [ pool-3-thread-2:1278516 ] - [ DEBUG ]  HData [type=0, data=121]
+2016-11-08 10:48:57  [ pool-3-thread-2:1278516 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:49:07  [ pool-3-thread-1:1288595 ] - [ DEBUG ]  HData [type=0, data=122]
+2016-11-08 10:49:07  [ pool-3-thread-1:1288596 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:49:17  [ pool-3-thread-2:1298677 ] - [ DEBUG ]  HData [type=0, data=123]
+2016-11-08 10:49:17  [ pool-3-thread-2:1298678 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:49:27  [ pool-3-thread-1:1308761 ] - [ DEBUG ]  HData [type=0, data=124]
+2016-11-08 10:49:27  [ pool-3-thread-1:1308762 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:49:37  [ pool-3-thread-2:1318868 ] - [ DEBUG ]  HData [type=0, data=125]
+2016-11-08 10:49:37  [ pool-3-thread-2:1318869 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:49:47  [ pool-3-thread-1:1328937 ] - [ DEBUG ]  HData [type=0, data=126]
+2016-11-08 10:49:47  [ pool-3-thread-1:1328938 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:49:57  [ pool-3-thread-2:1339071 ] - [ DEBUG ]  HData [type=0, data=127]
+2016-11-08 10:49:57  [ pool-3-thread-2:1339072 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:50:07  [ pool-3-thread-1:1349140 ] - [ DEBUG ]  HData [type=0, data=128]
+2016-11-08 10:50:07  [ pool-3-thread-1:1349141 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:50:17  [ pool-3-thread-2:1359221 ] - [ DEBUG ]  HData [type=0, data=129]
+2016-11-08 10:50:17  [ pool-3-thread-2:1359221 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:50:27  [ pool-3-thread-1:1369314 ] - [ DEBUG ]  HData [type=0, data=130]
+2016-11-08 10:50:27  [ pool-3-thread-1:1369314 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:50:38  [ pool-3-thread-2:1379391 ] - [ DEBUG ]  HData [type=0, data=131]
+2016-11-08 10:50:38  [ pool-3-thread-2:1379392 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:50:48  [ pool-3-thread-1:1389512 ] - [ DEBUG ]  HData [type=0, data=132]
+2016-11-08 10:50:48  [ pool-3-thread-1:1389513 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:50:58  [ pool-3-thread-2:1399586 ] - [ DEBUG ]  HData [type=0, data=133]
+2016-11-08 10:50:58  [ pool-3-thread-2:1399587 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:51:08  [ pool-3-thread-1:1409675 ] - [ DEBUG ]  HData [type=0, data=134]
+2016-11-08 10:51:08  [ pool-3-thread-1:1409676 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:51:18  [ pool-3-thread-2:1419757 ] - [ DEBUG ]  HData [type=0, data=135]
+2016-11-08 10:51:18  [ pool-3-thread-2:1419759 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:51:28  [ pool-3-thread-1:1429874 ] - [ DEBUG ]  HData [type=0, data=136]
+2016-11-08 10:51:28  [ pool-3-thread-1:1429875 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:51:38  [ pool-3-thread-2:1439980 ] - [ DEBUG ]  HData [type=0, data=137]
+2016-11-08 10:51:38  [ pool-3-thread-2:1439981 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:51:48  [ pool-3-thread-1:1450072 ] - [ DEBUG ]  HData [type=0, data=138]
+2016-11-08 10:51:48  [ pool-3-thread-1:1450073 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:51:58  [ pool-3-thread-2:1460146 ] - [ DEBUG ]  HData [type=0, data=139]
+2016-11-08 10:51:58  [ pool-3-thread-2:1460146 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:52:08  [ pool-3-thread-1:1470224 ] - [ DEBUG ]  HData [type=0, data=140]
+2016-11-08 10:52:08  [ pool-3-thread-1:1470225 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:52:18  [ pool-3-thread-2:1480307 ] - [ DEBUG ]  HData [type=0, data=141]
+2016-11-08 10:52:18  [ pool-3-thread-2:1480308 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:52:29  [ pool-3-thread-1:1490400 ] - [ DEBUG ]  HData [type=0, data=142]
+2016-11-08 10:52:29  [ pool-3-thread-1:1490400 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:52:39  [ pool-3-thread-2:1500500 ] - [ DEBUG ]  HData [type=0, data=143]
+2016-11-08 10:52:39  [ pool-3-thread-2:1500501 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:52:49  [ pool-3-thread-1:1510591 ] - [ DEBUG ]  HData [type=0, data=144]
+2016-11-08 10:52:49  [ pool-3-thread-1:1510592 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:52:59  [ pool-3-thread-2:1520728 ] - [ DEBUG ]  HData [type=0, data=145]
+2016-11-08 10:52:59  [ pool-3-thread-2:1520729 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:53:09  [ pool-3-thread-1:1530808 ] - [ DEBUG ]  HData [type=0, data=146]
+2016-11-08 10:53:09  [ pool-3-thread-1:1530809 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:53:19  [ pool-3-thread-2:1540881 ] - [ DEBUG ]  HData [type=0, data=147]
+2016-11-08 10:53:19  [ pool-3-thread-2:1540882 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:53:29  [ pool-3-thread-1:1550944 ] - [ DEBUG ]  HData [type=0, data=148]
+2016-11-08 10:53:29  [ pool-3-thread-1:1550946 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:53:39  [ pool-3-thread-2:1561076 ] - [ DEBUG ]  HData [type=0, data=149]
+2016-11-08 10:53:39  [ pool-3-thread-2:1561077 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:53:49  [ pool-3-thread-1:1571143 ] - [ DEBUG ]  HData [type=0, data=150]
+2016-11-08 10:53:49  [ pool-3-thread-1:1571145 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:53:59  [ pool-3-thread-2:1581210 ] - [ DEBUG ]  HData [type=0, data=151]
+2016-11-08 10:53:59  [ pool-3-thread-2:1581211 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:54:09  [ pool-3-thread-1:1591325 ] - [ DEBUG ]  HData [type=0, data=152]
+2016-11-08 10:54:09  [ pool-3-thread-1:1591326 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:54:20  [ pool-3-thread-2:1601416 ] - [ DEBUG ]  HData [type=0, data=153]
+2016-11-08 10:54:20  [ pool-3-thread-2:1601417 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:54:30  [ pool-3-thread-1:1611495 ] - [ DEBUG ]  HData [type=0, data=154]
+2016-11-08 10:54:30  [ pool-3-thread-1:1611496 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:54:40  [ pool-3-thread-2:1621569 ] - [ DEBUG ]  HData [type=0, data=155]
+2016-11-08 10:54:40  [ pool-3-thread-2:1621570 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:54:50  [ pool-3-thread-1:1631652 ] - [ DEBUG ]  HData [type=0, data=156]
+2016-11-08 10:54:50  [ pool-3-thread-1:1631653 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:55:00  [ pool-3-thread-2:1641723 ] - [ DEBUG ]  HData [type=0, data=157]
+2016-11-08 10:55:00  [ pool-3-thread-2:1641723 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:55:10  [ pool-3-thread-1:1651802 ] - [ DEBUG ]  HData [type=0, data=158]
+2016-11-08 10:55:10  [ pool-3-thread-1:1651803 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:55:20  [ pool-3-thread-2:1661879 ] - [ DEBUG ]  HData [type=0, data=159]
+2016-11-08 10:55:20  [ pool-3-thread-2:1661880 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:55:30  [ pool-3-thread-1:1671936 ] - [ DEBUG ]  HData [type=0, data=160]
+2016-11-08 10:55:30  [ pool-3-thread-1:1671937 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:55:40  [ pool-3-thread-2:1681998 ] - [ DEBUG ]  HData [type=0, data=161]
+2016-11-08 10:55:40  [ pool-3-thread-2:1681998 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:55:50  [ pool-3-thread-1:1692071 ] - [ DEBUG ]  HData [type=0, data=162]
+2016-11-08 10:55:50  [ pool-3-thread-1:1692071 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:56:00  [ pool-3-thread-2:1702141 ] - [ DEBUG ]  HData [type=0, data=163]
+2016-11-08 10:56:00  [ pool-3-thread-2:1702142 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:56:10  [ pool-3-thread-1:1712267 ] - [ DEBUG ]  HData [type=0, data=164]
+2016-11-08 10:56:10  [ pool-3-thread-1:1712267 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:56:21  [ pool-3-thread-2:1722402 ] - [ DEBUG ]  HData [type=0, data=165]
+2016-11-08 10:56:21  [ pool-3-thread-2:1722403 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:56:31  [ pool-3-thread-1:1732616 ] - [ DEBUG ]  HData [type=0, data=166]
+2016-11-08 10:56:31  [ pool-3-thread-1:1732617 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:56:41  [ pool-3-thread-2:1742708 ] - [ DEBUG ]  HData [type=0, data=167]
+2016-11-08 10:56:41  [ pool-3-thread-2:1742709 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:56:51  [ pool-3-thread-1:1752785 ] - [ DEBUG ]  HData [type=0, data=168]
+2016-11-08 10:56:51  [ pool-3-thread-1:1752785 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:57:01  [ pool-3-thread-2:1762857 ] - [ DEBUG ]  HData [type=0, data=169]
+2016-11-08 10:57:01  [ pool-3-thread-2:1762859 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:57:11  [ pool-3-thread-1:1772939 ] - [ DEBUG ]  HData [type=0, data=170]
+2016-11-08 10:57:11  [ pool-3-thread-1:1772939 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:57:21  [ pool-3-thread-2:1783025 ] - [ DEBUG ]  HData [type=0, data=171]
+2016-11-08 10:57:21  [ pool-3-thread-2:1783026 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:57:31  [ pool-3-thread-1:1793113 ] - [ DEBUG ]  HData [type=0, data=172]
+2016-11-08 10:57:31  [ pool-3-thread-1:1793113 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:57:41  [ pool-3-thread-2:1803247 ] - [ DEBUG ]  HData [type=0, data=173]
+2016-11-08 10:57:41  [ pool-3-thread-2:1803253 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:57:51  [ pool-3-thread-1:1813322 ] - [ DEBUG ]  HData [type=0, data=174]
+2016-11-08 10:57:51  [ pool-3-thread-1:1813323 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:58:02  [ pool-3-thread-2:1823398 ] - [ DEBUG ]  HData [type=0, data=175]
+2016-11-08 10:58:02  [ pool-3-thread-2:1823399 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:58:12  [ pool-3-thread-1:1833464 ] - [ DEBUG ]  HData [type=0, data=176]
+2016-11-08 10:58:12  [ pool-3-thread-1:1833464 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:58:22  [ pool-3-thread-2:1843534 ] - [ DEBUG ]  HData [type=0, data=177]
+2016-11-08 10:58:22  [ pool-3-thread-2:1843535 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:58:32  [ pool-3-thread-1:1853608 ] - [ DEBUG ]  HData [type=0, data=178]
+2016-11-08 10:58:32  [ pool-3-thread-1:1853608 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:58:42  [ pool-3-thread-2:1863676 ] - [ DEBUG ]  HData [type=0, data=179]
+2016-11-08 10:58:42  [ pool-3-thread-2:1863677 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:58:52  [ pool-3-thread-1:1873748 ] - [ DEBUG ]  HData [type=0, data=180]
+2016-11-08 10:58:52  [ pool-3-thread-1:1873748 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:59:02  [ pool-3-thread-2:1883818 ] - [ DEBUG ]  HData [type=0, data=181]
+2016-11-08 10:59:02  [ pool-3-thread-2:1883818 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:59:12  [ pool-3-thread-2:1893921 ] - [ DEBUG ]  HData [type=0, data=182]
+2016-11-08 10:59:12  [ pool-3-thread-2:1893922 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:59:22  [ pool-3-thread-2:1904006 ] - [ DEBUG ]  HData [type=0, data=183]
+2016-11-08 10:59:22  [ pool-3-thread-2:1904007 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:59:32  [ pool-3-thread-1:1914106 ] - [ DEBUG ]  HData [type=0, data=184]
+2016-11-08 10:59:32  [ pool-3-thread-1:1914107 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:59:42  [ pool-3-thread-2:1924187 ] - [ DEBUG ]  HData [type=0, data=185]
+2016-11-08 10:59:42  [ pool-3-thread-2:1924188 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 10:59:52  [ pool-3-thread-1:1934304 ] - [ DEBUG ]  HData [type=0, data=186]
+2016-11-08 10:59:52  [ pool-3-thread-1:1934305 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:00:03  [ pool-3-thread-2:1944387 ] - [ DEBUG ]  HData [type=0, data=187]
+2016-11-08 11:00:03  [ pool-3-thread-2:1944388 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:00:13  [ pool-3-thread-1:1954483 ] - [ DEBUG ]  HData [type=0, data=188]
+2016-11-08 11:00:13  [ pool-3-thread-1:1954484 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:00:23  [ pool-3-thread-2:1964563 ] - [ DEBUG ]  HData [type=0, data=189]
+2016-11-08 11:00:23  [ pool-3-thread-2:1964565 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:00:33  [ pool-3-thread-1:1974650 ] - [ DEBUG ]  HData [type=0, data=190]
+2016-11-08 11:00:33  [ pool-3-thread-1:1974651 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:00:43  [ pool-3-thread-2:1984721 ] - [ DEBUG ]  HData [type=0, data=191]
+2016-11-08 11:00:43  [ pool-3-thread-2:1984722 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:00:53  [ pool-3-thread-1:1994802 ] - [ DEBUG ]  HData [type=0, data=192]
+2016-11-08 11:00:53  [ pool-3-thread-1:1994803 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:01:03  [ pool-3-thread-2:2004904 ] - [ DEBUG ]  HData [type=0, data=193]
+2016-11-08 11:01:03  [ pool-3-thread-2:2004905 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:01:13  [ pool-3-thread-1:2014968 ] - [ DEBUG ]  HData [type=0, data=194]
+2016-11-08 11:01:13  [ pool-3-thread-1:2014969 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:01:23  [ pool-3-thread-2:2025059 ] - [ DEBUG ]  HData [type=0, data=195]
+2016-11-08 11:01:23  [ pool-3-thread-2:2025060 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:01:33  [ pool-3-thread-1:2035221 ] - [ DEBUG ]  HData [type=0, data=196]
+2016-11-08 11:01:33  [ pool-3-thread-1:2035222 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:01:43  [ pool-3-thread-2:2045350 ] - [ DEBUG ]  HData [type=0, data=197]
+2016-11-08 11:01:43  [ pool-3-thread-2:2045351 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:01:54  [ pool-3-thread-1:2055422 ] - [ DEBUG ]  HData [type=0, data=198]
+2016-11-08 11:01:54  [ pool-3-thread-1:2055423 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:02:04  [ pool-3-thread-2:2065483 ] - [ DEBUG ]  HData [type=0, data=199]
+2016-11-08 11:02:04  [ pool-3-thread-2:2065484 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:02:14  [ pool-3-thread-1:2075556 ] - [ DEBUG ]  HData [type=0, data=200]
+2016-11-08 11:02:14  [ pool-3-thread-1:2075557 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:02:24  [ pool-3-thread-2:2085652 ] - [ DEBUG ]  HData [type=0, data=201]
+2016-11-08 11:02:24  [ pool-3-thread-2:2085653 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:02:34  [ pool-3-thread-1:2095744 ] - [ DEBUG ]  HData [type=0, data=202]
+2016-11-08 11:02:34  [ pool-3-thread-1:2095745 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:02:44  [ pool-3-thread-2:2105884 ] - [ DEBUG ]  HData [type=0, data=203]
+2016-11-08 11:02:44  [ pool-3-thread-2:2105885 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:02:54  [ pool-3-thread-1:2116007 ] - [ DEBUG ]  HData [type=0, data=204]
+2016-11-08 11:02:54  [ pool-3-thread-1:2116008 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:03:04  [ pool-3-thread-2:2126105 ] - [ DEBUG ]  HData [type=0, data=205]
+2016-11-08 11:03:04  [ pool-3-thread-2:2126106 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:03:14  [ pool-3-thread-1:2136220 ] - [ DEBUG ]  HData [type=0, data=206]
+2016-11-08 11:03:14  [ pool-3-thread-1:2136220 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:03:24  [ pool-3-thread-2:2146297 ] - [ DEBUG ]  HData [type=0, data=207]
+2016-11-08 11:03:24  [ pool-3-thread-2:2146297 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:03:35  [ pool-3-thread-1:2156393 ] - [ DEBUG ]  HData [type=0, data=208]
+2016-11-08 11:03:35  [ pool-3-thread-1:2156393 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:03:45  [ pool-3-thread-2:2166468 ] - [ DEBUG ]  HData [type=0, data=209]
+2016-11-08 11:03:45  [ pool-3-thread-2:2166469 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:03:55  [ pool-3-thread-1:2176542 ] - [ DEBUG ]  HData [type=0, data=210]
+2016-11-08 11:03:55  [ pool-3-thread-1:2176543 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:04:05  [ pool-3-thread-2:2186657 ] - [ DEBUG ]  HData [type=0, data=211]
+2016-11-08 11:04:05  [ pool-3-thread-2:2186657 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:04:15  [ pool-3-thread-1:2196859 ] - [ DEBUG ]  HData [type=0, data=212]
+2016-11-08 11:04:15  [ pool-3-thread-1:2196860 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:04:25  [ pool-3-thread-2:2207217 ] - [ DEBUG ]  HData [type=0, data=213]
+2016-11-08 11:04:25  [ pool-3-thread-2:2207218 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:04:35  [ pool-3-thread-1:2217297 ] - [ DEBUG ]  HData [type=0, data=214]
+2016-11-08 11:04:35  [ pool-3-thread-1:2217297 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:04:46  [ pool-3-thread-2:2227368 ] - [ DEBUG ]  HData [type=0, data=215]
+2016-11-08 11:04:46  [ pool-3-thread-2:2227369 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:04:56  [ pool-3-thread-1:2237441 ] - [ DEBUG ]  HData [type=0, data=216]
+2016-11-08 11:04:56  [ pool-3-thread-1:2237442 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:05:06  [ pool-3-thread-2:2247518 ] - [ DEBUG ]  HData [type=0, data=217]
+2016-11-08 11:05:06  [ pool-3-thread-2:2247520 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:05:16  [ pool-3-thread-1:2257676 ] - [ DEBUG ]  HData [type=0, data=218]
+2016-11-08 11:05:16  [ pool-3-thread-1:2257676 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:05:26  [ pool-3-thread-2:2267778 ] - [ DEBUG ]  HData [type=0, data=219]
+2016-11-08 11:05:26  [ pool-3-thread-2:2267779 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:05:36  [ pool-3-thread-1:2277914 ] - [ DEBUG ]  HData [type=0, data=220]
+2016-11-08 11:05:36  [ pool-3-thread-1:2277915 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:05:46  [ pool-3-thread-2:2288001 ] - [ DEBUG ]  HData [type=0, data=221]
+2016-11-08 11:05:46  [ pool-3-thread-2:2288002 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:05:56  [ pool-3-thread-2:2298131 ] - [ DEBUG ]  HData [type=0, data=222]
+2016-11-08 11:05:56  [ pool-3-thread-2:2298132 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:06:06  [ pool-3-thread-2:2308304 ] - [ DEBUG ]  HData [type=0, data=223]
+2016-11-08 11:06:06  [ pool-3-thread-2:2308305 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:06:17  [ pool-3-thread-1:2318453 ] - [ DEBUG ]  HData [type=0, data=224]
+2016-11-08 11:06:17  [ pool-3-thread-1:2318454 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:06:27  [ pool-3-thread-2:2328568 ] - [ DEBUG ]  HData [type=0, data=225]
+2016-11-08 11:06:27  [ pool-3-thread-2:2328568 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:06:37  [ pool-3-thread-1:2338637 ] - [ DEBUG ]  HData [type=0, data=226]
+2016-11-08 11:06:37  [ pool-3-thread-1:2338638 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:06:47  [ pool-3-thread-2:2348714 ] - [ DEBUG ]  HData [type=0, data=227]
+2016-11-08 11:06:47  [ pool-3-thread-2:2348715 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:06:57  [ pool-3-thread-1:2358789 ] - [ DEBUG ]  HData [type=0, data=228]
+2016-11-08 11:06:57  [ pool-3-thread-1:2358790 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:07:07  [ pool-3-thread-2:2368877 ] - [ DEBUG ]  HData [type=0, data=229]
+2016-11-08 11:07:07  [ pool-3-thread-2:2368878 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:07:17  [ pool-3-thread-1:2378999 ] - [ DEBUG ]  HData [type=0, data=230]
+2016-11-08 11:07:17  [ pool-3-thread-1:2379000 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:07:27  [ pool-3-thread-2:2389160 ] - [ DEBUG ]  HData [type=0, data=231]
+2016-11-08 11:07:27  [ pool-3-thread-2:2389161 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:07:38  [ pool-3-thread-1:2399385 ] - [ DEBUG ]  HData [type=0, data=232]
+2016-11-08 11:07:38  [ pool-3-thread-1:2399386 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:07:48  [ pool-3-thread-2:2409540 ] - [ DEBUG ]  HData [type=0, data=233]
+2016-11-08 11:07:48  [ pool-3-thread-2:2409541 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:07:58  [ pool-3-thread-1:2419652 ] - [ DEBUG ]  HData [type=0, data=234]
+2016-11-08 11:07:58  [ pool-3-thread-1:2419653 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:08:08  [ pool-3-thread-2:2429774 ] - [ DEBUG ]  HData [type=0, data=235]
+2016-11-08 11:08:08  [ pool-3-thread-2:2429775 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:08:18  [ pool-3-thread-1:2440184 ] - [ DEBUG ]  HData [type=0, data=236]
+2016-11-08 11:08:18  [ pool-3-thread-1:2440185 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:08:28  [ pool-3-thread-2:2450263 ] - [ DEBUG ]  HData [type=0, data=237]
+2016-11-08 11:08:28  [ pool-3-thread-2:2450264 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:08:38  [ pool-3-thread-1:2460354 ] - [ DEBUG ]  HData [type=0, data=238]
+2016-11-08 11:08:38  [ pool-3-thread-1:2460355 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:08:49  [ pool-3-thread-2:2470466 ] - [ DEBUG ]  HData [type=0, data=239]
+2016-11-08 11:08:49  [ pool-3-thread-2:2470467 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:08:59  [ pool-3-thread-1:2480584 ] - [ DEBUG ]  HData [type=0, data=240]
+2016-11-08 11:08:59  [ pool-3-thread-1:2480585 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:09:09  [ pool-3-thread-2:2490738 ] - [ DEBUG ]  HData [type=0, data=241]
+2016-11-08 11:09:09  [ pool-3-thread-2:2490739 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:09:19  [ pool-3-thread-1:2500933 ] - [ DEBUG ]  HData [type=0, data=242]
+2016-11-08 11:09:19  [ pool-3-thread-1:2500934 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:09:29  [ pool-3-thread-2:2511035 ] - [ DEBUG ]  HData [type=0, data=243]
+2016-11-08 11:09:29  [ pool-3-thread-2:2511036 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:09:39  [ pool-3-thread-1:2521144 ] - [ DEBUG ]  HData [type=0, data=244]
+2016-11-08 11:09:39  [ pool-3-thread-1:2521145 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:09:49  [ pool-3-thread-2:2531214 ] - [ DEBUG ]  HData [type=0, data=245]
+2016-11-08 11:09:49  [ pool-3-thread-2:2531215 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:09:59  [ pool-3-thread-1:2541319 ] - [ DEBUG ]  HData [type=0, data=246]
+2016-11-08 11:09:59  [ pool-3-thread-1:2541319 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:10:10  [ pool-3-thread-2:2551400 ] - [ DEBUG ]  HData [type=0, data=247]
+2016-11-08 11:10:10  [ pool-3-thread-2:2551401 ] - [ DEBUG ]  /127.0.0.1:52277-->发送了一个心跳
+2016-11-08 11:15:51  [ pool-3-thread-1:2892684 ] - [ DEBUG ]  I'm Client &&  I closed!
