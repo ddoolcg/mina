@@ -6,6 +6,7 @@ import java.util.Set;
 import java.util.Timer;
 import java.util.TimerTask;
 
+import org.apache.log4j.Logger;
 import org.apache.mina.core.session.IoSession;
 
 import com.potter.bean.UserInfor;
@@ -21,6 +22,7 @@ import com.potter.model.User;
 public class UsersManager {
 	private static UsersManager manager;
 	private HashMap<IoSession, UserInfor> users = new HashMap<IoSession, UserInfor>();
+	private Logger logger = Logger.getLogger(getClass());
 
 	private UsersManager() {
 		final long period = 180000;
@@ -33,9 +35,11 @@ public class UsersManager {
 				long millis = System.currentTimeMillis() - period;
 				for (Entry<IoSession, UserInfor> entry : entrySet) {
 					if (entry.getValue().getLastLoginTime() < millis) {
-						entry.getKey().close(true);
+						IoSession key = entry.getKey();
+						remove(key);
 					}
 				}
+				logger.info("在线用户数：" + users.size());
 			}
 		}, period, period);
 	}
@@ -60,6 +64,7 @@ public class UsersManager {
 	/** 移除一个用户 */
 	public void remove(IoSession session) {
 		UserInfor remove = users.remove(session);
+		session.close(true);
 		User.logout(remove.getToken());
 	}
 

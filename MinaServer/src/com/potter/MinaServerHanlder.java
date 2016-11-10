@@ -25,7 +25,6 @@ public class MinaServerHanlder extends IoHandlerAdapter {
 	@Override
 	public void sessionClosed(IoSession session) throws Exception {
 		UsersManager.getManager().remove(session);
-		session.close(true);
 		logger.debug("I'm Client &&  I closed!");
 	}
 
