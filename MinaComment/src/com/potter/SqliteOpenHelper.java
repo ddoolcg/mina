@@ -2,12 +2,9 @@ package com.potter;
 
 import java.sql.SQLException;
 
-import org.sqlite.jdbc4.JDBC4PooledConnection;
-
 import com.j256.ormlite.dao.Dao;
 import com.j256.ormlite.dao.DaoManager;
 import com.j256.ormlite.jdbc.JdbcConnectionSource;
-import com.j256.ormlite.jdbc.JdbcPooledConnectionSource;
 import com.j256.ormlite.support.ConnectionSource;
 import com.j256.ormlite.table.TableUtils;
 import com.potter.bean.PlayerInfo;
